@@ -1,0 +1,16 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#F4F8FD" },
+    { "name": "canvas", "value": "#F4F8FD" },
+    { "name": "card", "value": "#FFFFFF" },
+    { "name": "text_primary", "value": "#182A43" },
+    { "name": "text_secondary", "value": "#63738B" },
+    { "name": "text_log", "value": "#4D5D73" },
+    { "name": "input", "value": "#F0F4F9" },
+    { "name": "status_online", "value": "#138B67" },
+    { "name": "status_online_bg", "value": "#E2F8F0" },
+    { "name": "status_idle_bg", "value": "#E8EEF6" },
+    { "name": "error", "value": "#C74950" },
+    { "name": "tab_selected", "value": "#18007DFF" }
+  ]
+}

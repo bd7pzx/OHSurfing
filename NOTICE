@@ -1,0 +1,9 @@
+OHSurfing
+
+This project includes C authentication and cipher code derived from:
+ESurfingClient-CVersion by BadGhost
+https://github.com/BadGhost520/ESurfingClient-CVersion
+Licensed under the Apache License, Version 2.0.
+
+OHSurfing adds a HarmonyOS ArkTS/ArkUI interface, a Node-API bridge,
+and native platform adaptations for network requests, logging and hashing.

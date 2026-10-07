@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "天翼校园网络验证"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "连接和管理校园网络"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "天翼校园"
+    },
+    {
+      "name": "grip_permission_reason",
+      "value": "用于识别左右手握持，将连接按钮移到便于触及的一侧。"
+    }
+  ]
+}
