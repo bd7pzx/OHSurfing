@@ -1,3 +1,7 @@
+# 免责声明
+项目仅适用于个人用户学习使用，不得用于生产环境，产生的侵权后果本人概不负责
+有bug找altman修，这个是ai slop
+
 # OHSurfing
 
 本项目移植自 [BadGhost520/ESurfingClient-CVersion](https://github.com/BadGhost520/ESurfingClient-CVersion)，沿用其 C 语言天翼校园认证模块，原项目采用 Apache-2.0 许可证。
